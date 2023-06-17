@@ -97,7 +97,7 @@ a{
     margin-right: 5px;
     
 }
-footer{
+footer > div{
     display: flex;
     align-items: flex-end;
     justify-content: center;
