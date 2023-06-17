@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    
+    background-color: #1F2937;
+    color:#e5e7eb;
+
+}
+#upper-button{
+    border-radius: 10px/25px;
+    background-color: #3882f6;
+    border: 1px solid  #3882f6;
+    color: #f9faf8;
+}
+.first-section {
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+#typing-computer{
+    margin-right: 210px;
+    
+}
+nav{
+    margin-right: 85px;
+    
+}
+#sub-section-two{
+    margin-left: 130px;
+    
+}
+#toppersonified-logo{
+    margin-right: 50px;
+}
+#main-text{
+    
+    font-weight:4px;
+    font-size: x-large ;
+    color: #f9faf8;
+}
+a{
+    font-weight: 18px;
+    color:#e5e7eb;
+}
+.second-section{
+    display:flex;
+    justify-content:center;
+    
+    
+    
+}
+#game-app{
+    margin-right: 170px;
+    border: 3px solid #3882f6;
+    border-radius: 25px;
+}
+.third-section{
+    display:flex;
+    justify-content:center;
+
+}
+#moto{
+    background: #e5e7eb;
+}
+#fourth-section{
+    display: flex;
+    justify-content: center;
+    
+    
+    
+    
+}
+#fourth-section > div{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    width:70%;
+    height: 50%;
+    background-color: #3882f6;
+    margin-top: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 35px;
+    color:#e5e7eb;
+    
+}
+ #lower-button{
+    border:1px solid #e5e7eb;
+    background-color: #3882f6;
+    border-radius: 10px/25px;
+    color: #e5e7eb;
+    margin-right: 5px;
+    
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+    background-color: #1F2937;
+    color:#e5e7eb;
+}
