@@ -50,6 +50,7 @@ a{
 .second-section{
     display:flex;
     justify-content:center;
+    background: #ffffff;
     
     
     
@@ -70,6 +71,8 @@ a{
 #fourth-section{
     display: flex;
     justify-content: center;
+    background: #ffffff;
+    
     
     
     
@@ -111,6 +114,7 @@ footer > div{
     background-color: #1F2937;
     color:#e5e7eb;
 }
-footer{
+body{
     background-color: #1F2937;
+
 }
