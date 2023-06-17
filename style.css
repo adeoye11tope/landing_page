@@ -99,11 +99,10 @@ a{
 }
 footer{
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: center;
     
-    padding-top: 10px;
-    padding-bottom: 10px;
+    
     
     background-color: #1F2937;
     color:#e5e7eb;
